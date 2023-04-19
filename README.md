@@ -1,2 +1,2 @@
 # flink-project
-make a practice with flink framework
+analyze stock information with flink
